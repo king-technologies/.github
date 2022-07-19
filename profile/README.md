@@ -1,32 +1,24 @@
-# Hi there 👋, Welcome to King Technologies
+# Welcome to King Technologies
 
-<img align="right"
-    src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'
-    width="200">
+We create Projects, Tutorials & Teach Tech Enthusiast to get Better. Our aim to teach & Build as much as we can. Anyone can join King's Tech School to learn New Technologies.
 
-🙋‍♀️ A short intro - We create Projects,Tutorials, Teach Developers to get Better in Development and Much More... Students can join King's Tech School to learn New Technologies.
+## Get involved
 
-🌈 Contribution guidelines - You can Contribute to any or our project via [Github Flow](https://guides.github.com/introduction/flow)
+You can join the fun by following our [contributing guide](https://guides.github.com/introduction/flow). 🌈 Everyone is welcome!
 
-👩‍💻 Useful resources - All the Documentation regarding repo is on the Repos page and let us know if you don't understand anything in our Projects.
+👩‍💻 All the Documentation regarding repo is on the respective Repos page, your feedback is valuable to us. If you find anything hard to understand or not working for you, please let us know.
 
-🍿 Fun facts - We don't Eat, Drink or Sleep, just Coding in VSCode Zen Mode.
+🍿 Fun fact - We don't Eat, Drink or Sleep, just Coding in VSCode Zen Mode.
 
-<h1></h1>
-<p align="center">
-    <a href="https://www.facebook.com/KingTechnologist" title="Facebook">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/fb.svg" alt="Facebook" width="75" /></a>
-    <a href="https://www.instagram.com/king_technologies" title="Instagram">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/instagram.svg" alt="Instagram" width="75" /></a>
-    <a href="https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1" title="YouTube">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/youtube.svg" alt="YouTube" width="75" /></a>
-    <a href="https://www.twitch.tv/kingtechnologies" title="Twitch">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/twitch.svg" alt="Twitch" width="75" /></a>
-    <a href="https://www.twitter.com/king_tech1/" title="Twitter">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/twitter.svg" alt="Twitter" width="75" /></a>
-</p>
+## Repositories
 
-<h2 align="center">Services we Provide</h2>
+We have a number of repositories, some important ones include:
+
+* [Project Initiator](https://github.com/king-technologies/Project-Initiator): Start your project with Single Command
+* [Kaushal](https://github.com/king-technologies/kaushal): App for Brain training, Focus on Aptitude, Mental & Speed Math. Project
+* [Kaushal](https://github.com/king-technologies/virtual-assistant): Virtual Assistant like a bit of Jarvis, where you can interact it with voice and perform the task very fast and easy
+
+## Services we Provide</h2>
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/android.png' width="60"> **Android Development**
 
@@ -49,6 +41,20 @@ Wow, Android Project! Your App will be in the hand of millions of Users worldwid
 
  Cool Designs are waiting for you. We can do Logo Designing, Audio, Video, or Photo Editing at whatever Size & format you want or Animations Using Adobe Creative Cloud at a very reasonable time & price.
 
+## Connect with us
+
+<p align="center">
+    <a href="https://www.facebook.com/KingTechnologist" title="Facebook">
+        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/fb.svg" alt="Facebook" width="75" /></a>
+    <a href="https://www.instagram.com/king_technologies" title="Instagram">
+        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/instagram.svg" alt="Instagram" width="75" /></a>
+    <a href="https://www.youtube.com/channel/UCBkOLsuxGJJRVyV2UIK9alQ?sub_confirmation=1" title="YouTube">
+        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/youtube.svg" alt="YouTube" width="75" /></a>
+    <a href="https://www.twitch.tv/kingtechnologies" title="Twitch">
+        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/twitch.svg" alt="Twitch" width="75" /></a>
+    <a href="https://www.twitter.com/king_tech1/" title="Twitter">
+        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/twitter.svg" alt="Twitter" width="75" /></a>
+</p>
 <p align="center">
      <a href="mailto:kingtechnologies2017@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/gmail.svg" alt="Gmail" width="75" /></a>
@@ -60,6 +66,6 @@ Wow, Android Project! Your App will be in the hand of millions of Users worldwid
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">💙 If you like our projects, Give them ⭐ and Share them with friends!</p>
 </p>
 <p align="center">Made with ❤️ in India</p>
