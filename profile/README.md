@@ -2,14 +2,6 @@
 
 We create Projects, Tutorials & Teach Tech Enthusiast to get Better. Our aim to teach & Build as much as we can. Anyone can join King's Tech School to learn New Technologies.
 
-## Get involved
-
-You can join the fun by following our [contributing guide](https://guides.github.com/introduction/flow). 🌈 Everyone is welcome!
-
-👩‍💻 All the Documentation regarding repo is on the respective Repos page, your feedback is valuable to us. If you find anything hard to understand or not working for you, please let us know.
-
-🍿 Fun fact - We don't Eat, Drink or Sleep, just Coding in VSCode Zen Mode.
-
 ## Repositories
 
 We have a number of repositories, some important ones include:
@@ -17,6 +9,14 @@ We have a number of repositories, some important ones include:
 * [Project Initiator](https://github.com/king-technologies/Project-Initiator): Start your project with Single Command
 * [Kaushal](https://github.com/king-technologies/kaushal): App for Brain training, Focus on Aptitude, Mental & Speed Math. Project
 * [Kaushal](https://github.com/king-technologies/virtual-assistant): Virtual Assistant like a bit of Jarvis, where you can interact it with voice and perform the task very fast and easy
+
+## Get involved
+
+You can join the fun by following our [contributing guide](https://guides.github.com/introduction/flow). 🌈 Everyone is welcome!
+
+👩‍💻 All the Documentation regarding repo is on the respective Repos page, your feedback is valuable to us. If you find anything hard to understand or not working for you, please let us know.
+
+🍿 Fun fact - We don't Eat, Drink or Sleep, just Coding in VSCode Zen Mode.
 
 ## Services we Provide</h2>
 
