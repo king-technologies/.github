@@ -8,7 +8,6 @@ We have a number of repositories, some important ones include:
 
 * [Project Initiator](https://github.com/king-technologies/Project-Initiator): Start your project with Single Command
 * [Kaushal](https://github.com/king-technologies/kaushal): App for Brain training, Focus on Aptitude, Mental & Speed Math. Project
-* [Kaushal](https://github.com/king-technologies/virtual-assistant): Virtual Assistant like a bit of Jarvis, where you can interact it with voice and perform the task very fast and easy
 
 ## Get involved
 
