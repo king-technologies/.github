@@ -57,8 +57,6 @@ Wow, Android Project! Your App will be in the hand of millions of Users worldwid
 <p align="center">
      <a href="mailto:kingtechnologies2017@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/gmail.svg" alt="Gmail" width="75" /></a>
-    <a href="https://wa.me/message/2BFKBEIG53U6H1" title="Whatsapp">
-        <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/whatsapp.svg" alt="Whatsapp" width="65" /></a>
 </p>
 
 <h2 align="center">🤝 Support</h2>
