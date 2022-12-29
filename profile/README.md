@@ -7,7 +7,7 @@ We create Projects, Tutorials & Teach Tech Enthusiast to get Better. Our aim to 
 We have a number of repositories, some important ones include:
 
 * [Project Initiator](https://github.com/king-technologies/Project-Initiator): Start your project with Single Command
-* [Kaushal](https://github.com/king-technologies/kaushal): App for Brain training, Focus on Aptitude, Mental & Speed Math. Project
+<!-- * [Kaushal](https://github.com/king-technologies/kaushal): App for Brain training, Focus on Aptitude, Mental & Speed Math. Project -->
 
 ## Get involved
 
@@ -26,7 +26,7 @@ Wow, Android Project! Your App will be in the hand of millions of Users worldwid
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/tech.png' width="60">**Tech School**
 
- Enrol in King's Tech School for learning Technologies Like Flutter, Python, JavaScript, C#, .net, & a lot more. You will be ready to Develop Awesome Web, Mobile & Software Projects for Industry with Easy approaches to Complex Programs. [Tech School](https://kingtechnologies.in/Tech%20School)
+ Enrol in King's Tech School for learning Technologies Like Flutter, Python, JavaScript, C#, .net, & a lot more. You will be ready to Develop Awesome Web, Mobile & Software Projects for Industry with Easy approaches to Complex Programs. [Tech School](https://kingtechnologies./Tech%20School)
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/web.png' width="60">**Web Development**
 
