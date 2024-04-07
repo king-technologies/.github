@@ -21,16 +21,16 @@ You can join the fun by following our [contributing guide](https://guides.github
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/android.png' width="60"> **Android Development**
 
-Wow, Android Project! Your App will be in the hand of millions of Users worldwide. We Can Build your App using Java, Kotlin or Flutter at a very reasonable time & price.
+Wow, Android Project! Your App will be in the hands of millions of users worldwide. We Can Build your App using Java, Kotlin or Flutter at a very reasonable time & price.
 <p></p>
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/tech.png' width="60">**Tech School**
 
- Enrol in King's Tech School for learning Technologies Like Flutter, Python, JavaScript, C#, .net, & a lot more. You will be ready to Develop Awesome Web, Mobile & Software Projects for Industry with Easy approaches to Complex Programs. [Tech School](https://kingtechnologies.dev/Tech%20School)
+ Enrol in King's Tech School for learning Technologies Like Flutter, Python, JavaScript, C#, .net, & a lot more. You will be ready to Develop Awesome Web, Mobile & Software Projects for the Industry with Easy approaches to Complex Programs. [Tech School](https://kingtechnologies.dev/tech_school)
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/web.png' width="60">**Web Development**
 
- You have an idea of a Web Project! We can build it using the Technology you want like PHP MySQL, MERN Stack, MEAN Stack, MEVN Stack or Django, etc. Share your requirements & Get it done as soon as possible at a very reasonable Price.
+ You have an idea of a Web Project! We can build it using the Technology you want like PHP MySQL, MERN Stack, MEAN Stack, MEVN Stack or Django, etc. Share your requirements & Get it done as soon as possible at a very reasonable price.
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/website.png' width="60">**Website Improvements**
 
@@ -38,7 +38,7 @@ Wow, Android Project! Your App will be in the hand of millions of Users worldwid
 
 <img align="left" src='https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/graphic.png' width="60">**Graphic Designing**
 
- Cool Designs are waiting for you. We can do Logo Designing, Audio, Video, or Photo Editing at whatever Size & format you want or Animations Using Adobe Creative Cloud at a very reasonable time & price.
+ Cool Designs are waiting for you. We can do Logo design, Audio, Video, or Photo Editing at whatever Size & format you want or Animations Using Adobe Creative Cloud at a very reasonable time & price.
 
 ## Connect with us
 
